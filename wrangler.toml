@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 # KV Namespace for OAuth state and tokens
 [[kv_namespaces]]
 binding = "OAUTH_KV"
-id = "1986c08548ae49278a3c6d93c36c38ec"
+id = "fd4faef29a6e507b60fcbdacf3494b32"
 
 # Durable Objects for MCP sessions
 [durable_objects]
