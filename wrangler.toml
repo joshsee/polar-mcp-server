@@ -1,4 +1,4 @@
-name = "polar-mcp-server"
+name = "polar-mcp-server-josh-s"
 main = "src/worker.ts"
 compatibility_date = "2024-12-01"
 compatibility_flags = ["nodejs_compat"]
@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 # KV Namespace for OAuth state and tokens
 [[kv_namespaces]]
 binding = "OAUTH_KV"
-id = "fd4faef29a6e507b60fcbdacf3494b32"
+id = "e59805cc585748aebcb18ec713c267b0"
 
 # Durable Objects for MCP sessions
 [durable_objects]
