@@ -23,6 +23,7 @@ new_sqlite_classes = ["MyMCP"]
 [vars]
 # Non-sensitive variables can go here
 
+workers_dev = false
 # Development settings
 [env.dev]
 name = "polar-mcp-server-dev"
